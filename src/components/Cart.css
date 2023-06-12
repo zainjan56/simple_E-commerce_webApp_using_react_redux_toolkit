@@ -1,0 +1,10 @@
+.cartsPage {
+    width: 400px;
+    height: 45px;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(231, 231, 38);
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
+}

@@ -1,1 +1,1 @@
-# simple_E-commerce_webApp_using_react_redux_toolkit
+# coding-project-template

@@ -1,0 +1,39 @@
+.card {
+    cursor: pointer;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.cardImage {
+    width: 100%;
+    height: 100%;
+}
+
+.title {
+    font-size: small;
+}
+
+.cartBtn {
+    float: right;
+    margin-top: -35px;
+    gap: 2px;
+}
+
+.cartButton {
+    margin: 5px;
+    border-radius: 12px;
+    background-color: yellow;
+    border: none;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+.cartDetails {
+    float: right;
+    margin-top: -150px;
+    background-color: beige;
+    border-radius: 10px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.detailColor {
+    color: rgb(242, 57, 57);
+}
